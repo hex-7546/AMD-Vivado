@@ -28,7 +28,10 @@ Here's the simulation of those logic circuits. The simulation code is in ```stim
 <img width="1191" height="1000" alt="Screenshot 2025-10-19 123535" src="https://github.com/user-attachments/assets/de31f0da-1dad-4172-b144-b28e24cb3a7e" />
 <br>
 <br>
-``````reg a,b`````` - two register type inputs <br>
+```
+reg a,b
+```
+ - two register type inputs <br>
 ```wire y0, y1, y2``` - wires to see the output <br>
 ```logic_gates uut(a,b,y0,y1,y2)``` - instantiates the circuit under test connecting testbench signals <br>
 
