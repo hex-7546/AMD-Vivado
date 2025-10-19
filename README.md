@@ -70,3 +70,18 @@ Output of testbench in waveform
 <br>
 
 <img width="1485" height="561" alt="image" src="https://github.com/user-attachments/assets/2170c2f5-66c0-4ae3-909e-becf09ea0e3c" />
+
+
+# 3. Implementation of Full Adder
+Here's a visual schematic of the the implementation
+<br>
+
+<img width="1901" height="960" alt="image" src="https://github.com/user-attachments/assets/e96150e6-c1af-4176-a918-7274b86ec3c6" />
+<br>
+<br>
+<br>
+
+Output of testbench in waveform
+<br>
+
+<img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/8f476172-7f9e-4081-bf39-c76fab7435c1" />
