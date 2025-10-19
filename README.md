@@ -85,3 +85,8 @@ Output of testbench in waveform
 <br>
 
 <img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/8f476172-7f9e-4081-bf39-c76fab7435c1" />
+
+
+## Implementing Full Adder using two half adder and OR gate
+<br>
+<img width="1907" height="979" alt="image" src="https://github.com/user-attachments/assets/20601368-73a2-46ab-8a08-cf76f99fd4cf" />
